@@ -1,0 +1,18 @@
++=======================+
+| STRUK PENYEWAAN KAMAR |
++=======================+
+
+Jenis kamar      : Kamar Standart
+Kode kamar       : 69
+Nama pelanggan   : aiyya
+Alamat           : kepo anjing
+No hp            : 09865r
+Jenis kelamin    : cwk
+Tgl chek in      : 12
+Tgl chek out     : 13
+Jml kamar dipesan: 1
+Harga kamar      : 500
+Lama inap        : 1
+Total harga      : 500
+Jml bayar        : 500
+Kembalian        : 0
